@@ -256,3 +256,7 @@ button{
     font-size:15px;
     font-weight:bold;
 }
+
+button:hover{
+    background-color:#8d2d8d;
+}
